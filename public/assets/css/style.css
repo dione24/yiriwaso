@@ -74,7 +74,7 @@ a,
   transition: 0.5s; }
 
 /* =========================================================
-        Typography 
+        Typography
 ============================================================ */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
@@ -144,7 +144,7 @@ ul li {
   list-style: none; }
 
 /* =========================================================
-        Button STYLE 
+        Button STYLE
 ============================================================ */
 .btn {
   font-family: "Poppins", sans-serif;
@@ -304,7 +304,7 @@ button,
   background-color: #1379bb; }
 
 /* =========================================================
-        Global Classes 
+        Global Classes
 ============================================================ */
 .no-margin {
   margin: 0; }
@@ -331,7 +331,7 @@ button,
   margin-right: 30px; }
 
 /* =========================================================
-        FORM STYLE 
+        FORM STYLE
 ============================================================ */
 .form-control:focus {
   box-shadow: none; }
@@ -358,7 +358,7 @@ textarea, select {
   border-radius: 0px 0px 0px 0px; }
 
 /* =========================================================
-        Light-Box STYLE 
+        Light-Box STYLE
 ============================================================ */
 .poptrox-popup {
   background: transparent !important; }
@@ -375,7 +375,7 @@ textarea, select {
   border-bottom: 1px solid #dfdfdf; }
 
 /* =========================================================
-        Pagination STYLE 
+        Pagination STYLE
 ============================================================ */
 .pagination-wrapper {
   margin-top: 80px; }
@@ -417,7 +417,7 @@ textarea, select {
     background-color: transparent; }
 
 /* =========================================================
-        Box Layout STYLE 
+        Box Layout STYLE
 ============================================================ */
 .boxLayout, .box-layout {
   margin: 0 auto;
@@ -472,7 +472,7 @@ textarea, select {
     background-color: #6cbe03; }
 
 /* =========================================================
-        Section-Title STYLE 
+        Section-Title STYLE
 ============================================================ */
 .section-title h2 {
   font-size: 36px;
@@ -494,7 +494,7 @@ textarea, select {
   color: #6a7788; }
 
 /* =========================================================
-        Header-Title STYLE 
+        Header-Title STYLE
 ============================================================ */
 .header-title.sticky {
   margin-top: 90px; }
@@ -530,7 +530,7 @@ textarea, select {
     color: #6cbe03; }
 
 /* =========================================================
-        Header STYLE 
+        Header STYLE
 ============================================================ */
 @media only screen and (max-width: 991px) {
   .header-section {
@@ -1147,7 +1147,7 @@ textarea, select {
             color: #313131; }
 
 /* =========================================================
-        Slider-Section STYLE 
+        Slider-Section STYLE
 ============================================================ */
 /*.slider-section {
     &.sticky {
@@ -1232,7 +1232,7 @@ textarea, select {
     left: 0;
     transform: translate3d(0, 0, 0); }
   .slider-section .main-slider #main-slider-carousel .carousel-inner .slider-one {
-    background: url(../images/slider/slider-1.jpg) no-repeat center center;
+    background: url(../../img/home.jpg) no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 650px; }
@@ -1246,7 +1246,7 @@ textarea, select {
       .slider-section .main-slider #main-slider-carousel .carousel-inner .slider-one {
         height: 430px; } }
   .slider-section .main-slider #main-slider-carousel .carousel-inner .slider-two {
-    background: url(../images/slider/slider-2.jpg) no-repeat center center;
+    background: url(../../img/RM1.JPG) no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 650px; }
@@ -1260,7 +1260,7 @@ textarea, select {
       .slider-section .main-slider #main-slider-carousel .carousel-inner .slider-two {
         height: 430px; } }
   .slider-section .main-slider #main-slider-carousel .carousel-inner .slider-three {
-    background: url(../images/slider/slider-3.jpg) no-repeat center center;
+    background: url(../../img/20211118_085508.JPG) no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 650px; }
@@ -1393,7 +1393,7 @@ textarea, select {
     right: 20px; }
 
 /* =========================================================
-        Service-Section STYLE 
+        Service-Section STYLE
 ============================================================ */
 .service-section .section-title {
   margin-bottom: 55px; }
@@ -1569,7 +1569,7 @@ textarea, select {
         padding: 6px 20px; } }
 
 /* =========================================================
-        Counting-Section STYLE 
+        Counting-Section STYLE
 ============================================================ */
 .counting-section {
   background: url(../images/conuting-bg.jpg) no-repeat center;
@@ -1653,7 +1653,7 @@ textarea, select {
             margin: 5px 0; } }
 
 /* =========================================================
-        Growing-Section STYLE 
+        Growing-Section STYLE
 ============================================================ */
 @media only screen and (max-width: 991px) {
   .growing-section .content-wrapper {
@@ -1720,7 +1720,7 @@ textarea, select {
     width: 100%; }
 
 /* =========================================================
-        Project-Section STYLE 
+        Project-Section STYLE
 ============================================================ */
 .project-section {
   background-color: #ecf4de;
@@ -1856,7 +1856,7 @@ textarea, select {
       transition-delay: .2s; }
 
 /* =========================================================
-        Gallery-Section STYLE 
+        Gallery-Section STYLE
 ============================================================ */
 .gallery-one .pricing-padding {
   padding: 0 3px 0 3px; }
@@ -2557,7 +2557,7 @@ textarea, select {
     margin: 11px 0 0px; } }
 /*gallery-six*/
 /* =========================================================
-        Team-Section STYLE 
+        Team-Section STYLE
 ============================================================ */
 .team-section .section-title {
   margin-bottom: 100px; }
@@ -2874,7 +2874,7 @@ textarea, select {
     background: #e8e8e8; }
 
 /* =========================================================
-        Worker-Section STYLE 
+        Worker-Section STYLE
 ============================================================ */
 .worker-section .worker-wrapper .tab-content .extra {
   margin-bottom: 112px; }
@@ -3020,7 +3020,7 @@ textarea, select {
           padding: 5px 15px; } }
 
 /* =========================================================
-        Quote-Section STYLE 
+        Quote-Section STYLE
 ============================================================ */
 .quote-section {
   background: url(../images/quote-bg.jpg) no-repeat center;
@@ -3078,7 +3078,7 @@ textarea, select {
       color: #313131; }
 
 /* =========================================================
-        Double-Section STYLE 
+        Double-Section STYLE
 ============================================================ */
 .double-section .partner-section .section-title {
   margin-bottom: 50px; }
@@ -3179,7 +3179,7 @@ textarea, select {
           line-height: 27px; } }
 
 /* =========================================================
-        Testimonial-Section STYLE 
+        Testimonial-Section STYLE
 ============================================================ */
 .testimonial-section {
   background: #ecf4de;
@@ -3348,7 +3348,7 @@ textarea, select {
       right: -130px; }
 
 /* =========================================================
-        Priceing-Section STYLE 
+        Priceing-Section STYLE
 ============================================================ */
 .priceing-section .section-title {
   margin-bottom: 80px; }
@@ -3929,7 +3929,7 @@ textarea, select {
         font-size: 15px; } }
 
 /* =========================================================
-        Shop-Section STYLE 
+        Shop-Section STYLE
 ============================================================ */
 .shop-section {
   padding-bottom: 0; }
@@ -4083,7 +4083,7 @@ textarea, select {
           padding: 6px 20px; } }
 
 /* =========================================================
-        Blog-Section STYLE 
+        Blog-Section STYLE
 ============================================================ */
 .blog-section {
   padding-bottom: 40px; }
@@ -4182,7 +4182,7 @@ textarea, select {
           font-size: 16px; } }
 
 /* =========================================================
-        SignUp-Section STYLE 
+        SignUp-Section STYLE
 ============================================================ */
 .signup-section .signup-wrapper {
   background: url(../images/sign-bg.jpg) no-repeat center center;
@@ -4236,7 +4236,7 @@ textarea, select {
         margin-top: 25px; } }
 
 /* =========================================================
-        About-Section STYLE 
+        About-Section STYLE
 ============================================================ */
 .about-section {
   padding: 115px 0 70px; }
@@ -4307,7 +4307,7 @@ textarea, select {
         width: 100%; }
 
 /* =========================================================
-        Subscribe-Section STYLE 
+        Subscribe-Section STYLE
 ============================================================ */
 .subscribe-section {
   background: url(../images/subscribe-bg.jpg) no-repeat center;
@@ -4390,7 +4390,7 @@ textarea, select {
           padding: 6px 38px; } }
 
 /* =========================================================
-        Mission-Section STYLE 
+        Mission-Section STYLE
 ============================================================ */
 .mission-section {
   padding: 70px 0 80px; }
@@ -4474,7 +4474,7 @@ textarea, select {
           margin-bottom: 20px; } }
 
 /* =========================================================
-        About-Section-Two STYLE 
+        About-Section-Two STYLE
 ============================================================ */
 .about-section-two .section-title {
   margin-bottom: 50px; }
@@ -4510,7 +4510,7 @@ textarea, select {
       padding: 3px 20px; } }
 
 /* =========================================================
-        ComingSoonOne STYLE 
+        ComingSoonOne STYLE
 ============================================================ */
 .comingsoonOne {
   background: url(../images/comming-soon/c1.jpg) no-repeat center center;
@@ -4587,7 +4587,7 @@ textarea, select {
         color: #31aae2; }
 
 /* =========================================================
-        ComingSoonTwo STYLE 
+        ComingSoonTwo STYLE
 ============================================================ */
 .comingsoonTwo {
   background: url(../images/comming-soon/c2.jpg) no-repeat center center;
@@ -4687,7 +4687,7 @@ textarea, select {
         font-size: 18px; } }
 
 /* =========================================================
-        ComingSoonThree STYLE 
+        ComingSoonThree STYLE
 ============================================================ */
 .comingsoonThree {
   background: url(../images/comming-soon/c3.jpg) no-repeat center center;
@@ -4833,7 +4833,7 @@ textarea, select {
         color: #6cbe03; }
 
 /* =========================================================
-        ComingSoonFour STYLE 
+        ComingSoonFour STYLE
 ============================================================ */
 .comingsoonFour {
   background: url(../images/comming-soon/c4.jpg) no-repeat center center;
@@ -4941,7 +4941,7 @@ textarea, select {
         background-color: #fff; }
 
 /* =========================================================
-        404 Page STYLE 
+        404 Page STYLE
 ============================================================ */
 .error-Page {
   padding: 95px 0 108px; }
@@ -5003,7 +5003,7 @@ textarea, select {
       color: #FFFFFF; }
 
 /* =========================================================
-        404 Page Two STYLE 
+        404 Page Two STYLE
 ============================================================ */
 .error-Page-Two {
   background: url(../images/comingsoonelevenbg.jpg) no-repeat center center;
@@ -5030,7 +5030,7 @@ textarea, select {
       width: 100%; } }
 
 /* =========================================================
-        Icon Page STYLE 
+        Icon Page STYLE
 ============================================================ */
 .icon-style-one .promo-block-wrapper {
   background: #fff;
@@ -5445,7 +5445,7 @@ textarea, select {
     font-size: 15px; }
 
  /* =========================================================
-        Calender Page STYLE 
+        Calender Page STYLE
 ============================================================ */
 .calender-section .widget-date {
   border: 2px solid #6cbe03; }
@@ -5563,7 +5563,7 @@ textarea, select {
         color: #666; }
 
  /* =========================================================
-        Blog STYLE 
+        Blog STYLE
 ============================================================ */
 @media only screen and (max-width: 991px) {
   .blogStyleOne .blog-post-wrapper {
@@ -6517,10 +6517,10 @@ textarea, select {
   margin-left: 5px; }
 
 /* =========================================================
-        Faq STYLE 
+        Faq STYLE
 ============================================================ */
 /* =========================================================
-        Footer STYLE 
+        Footer STYLE
 ============================================================ */
 .footer-section {
   position: relative;
@@ -6707,7 +6707,7 @@ textarea, select {
           color: #808790; }
 
 /* =========================================================
-        HomePageOne-STYLE 
+        HomePageOne-STYLE
 ============================================================ */
 .homePageOne .header-section .middle-bar .navbar-header {
   padding: 25px 0; }
@@ -6841,7 +6841,7 @@ textarea, select {
           width: 140px; } }
 
 /* =========================================================
-        HomePageThree-STYLE 
+        HomePageThree-STYLE
 ============================================================ */
 .homePageThree .header-section {
   position: absolute;
@@ -6904,7 +6904,7 @@ textarea, select {
           display: inline-block; } }
 
 /* =========================================================
-        AboutPage-STYLE 
+        AboutPage-STYLE
 ============================================================ */
 .aboutPage .header-title {
   background: url(../images/sub/about-bg.jpg) no-repeat center;
@@ -6929,7 +6929,7 @@ textarea, select {
       margin-bottom: 40px; } }
 
 /* =========================================================
-        ServicePage-STYLE 
+        ServicePage-STYLE
 ============================================================ */
 .servicePage .header-title {
   background: url(../images/sub/about-bg.jpg) no-repeat center;
@@ -6954,7 +6954,7 @@ textarea, select {
     margin-bottom: 70px; } }
 
 /* =========================================================
-        Single-ServicePage-STYLE 
+        Single-ServicePage-STYLE
 ============================================================ */
 .single-servicePage .header-title {
   background: url(../images/sub/team-bg.jpg) no-repeat center top;
@@ -7108,7 +7108,7 @@ textarea, select {
     margin-bottom: 15px; } }
 
 /* =========================================================
-        TeamPage-STYLE 
+        TeamPage-STYLE
 ============================================================ */
 .teamPage .header-title {
   background: url(../images/sub/team-bg.jpg) no-repeat center;
@@ -7129,7 +7129,7 @@ textarea, select {
         margin: 5px 0 40px; } }
 
 /* =========================================================
-        ContactPage-STYLE 
+        ContactPage-STYLE
 ============================================================ */
 .contactPage .header-title {
   background: url(../images/sub/team-bg.jpg) no-repeat center;
@@ -7507,7 +7507,7 @@ textarea, select {
       line-height: 27px; } }
 
 /* =========================================================
-        Event-Grid-Section STYLE 
+        Event-Grid-Section STYLE
 ============================================================ */
 .event-grid-section .first-row {
   margin-bottom: 70px; }
@@ -7600,7 +7600,7 @@ textarea, select {
         margin-top: 20px; } }
 
 /* =========================================================
-        Event-List-Section STYLE 
+        Event-List-Section STYLE
 ============================================================ */
 .event-list-section .event-wrapper {
   background: url(../images/l-event.jpg) no-repeat;
@@ -7715,7 +7715,7 @@ textarea, select {
         border: 2px solid #6cbe03; }
 
 /* =========================================================
-        Comming-Soon STYLE 
+        Comming-Soon STYLE
 ============================================================ */
 .commingSoonPage .extra.sticky {
   margin-top: 80px; }
@@ -7724,7 +7724,7 @@ textarea, select {
       margin-top: 0; } }
 
 /* =========================================================
-        Shop-Page-STYLE 
+        Shop-Page-STYLE
 ============================================================ */
 .shop-page .banner-section {
   background: url(../images/sub/t-bg.jpg) no-repeat;
@@ -7837,7 +7837,7 @@ textarea, select {
   margin: 30px 0 0; }
 
 /* =========================================================
-        Cart-Page-STYLE 
+        Cart-Page-STYLE
 ============================================================ */
 .cart-page .banner-section {
   background: url(../images/sub/t-bg.jpg) no-repeat;
@@ -7917,7 +7917,7 @@ textarea, select {
       background: #eee; }
 
 /* =========================================================
-        RTL-Layout STYLE 
+        RTL-Layout STYLE
 ============================================================ */
 .rtl-layout-one .header-section .navbar .navbar-collapse .navbar-nav li .dropdown-menu {
   text-align: right; }
@@ -8021,7 +8021,7 @@ textarea, select {
   right: auto; }
 
 /* =========================================================
-        DARK-Layout STYLE 
+        DARK-Layout STYLE
 ============================================================ */
 .dark-layout-one .header-section .navbar {
   background-color: transparent; }
@@ -8163,7 +8163,7 @@ textarea, select {
   border: 1px solid #464646; }
 
 /* =========================================================
-        BOX-Layout STYLE 
+        BOX-Layout STYLE
 ============================================================ */
 .boxLayout .header-section {
   left: auto;
@@ -8184,7 +8184,7 @@ textarea, select {
   overflow: hidden; }
 
 /* =========================================================
-        Single-Pge STYLE 
+        Single-Pge STYLE
 ============================================================ */
 .single-one .header-section .navbar.sticky .navbar-collapse .nav-one {
   margin-left: 300px; }
@@ -8195,7 +8195,7 @@ textarea, select {
   margin-left: 200px; }
 
 /* =========================================================
-        Color-Switcher-STYLE 
+        Color-Switcher-STYLE
 ============================================================ */
 .style-switcher-box {
   background-color: #FFFFFF;
@@ -8323,7 +8323,7 @@ textarea, select {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg); } }
 /* =========================================================
-        Scroll-To-Top-STYLE 
+        Scroll-To-Top-STYLE
 ============================================================ */
 #toTop {
   position: fixed;
@@ -8342,7 +8342,7 @@ textarea, select {
   z-index: 999; }
 
 /* =========================================================
-        Preloader-STYLE 
+        Preloader-STYLE
 ============================================================ */
 #preloader {
   background-color: #FFFFFF;
